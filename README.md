@@ -2,6 +2,8 @@
 
 This repository contains a website project used to practise Git and automated delivery."
 
+I love As and Js
+
 Class 3: Git, GitHub and artifact delivery. Class 4: Docker image delivery.
 
 ## Local use
